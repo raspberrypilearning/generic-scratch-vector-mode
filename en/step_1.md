@@ -10,6 +10,6 @@ In vector mode the tools appear on the right of the drawing area.
 
 Choose the select tool (arrow) to move, resize and rotate shapes and lines. 
 
-![screenshot](images/vector-mode-tools.png)
+![screenshot](images/vector-mode-move.png)
 
 
