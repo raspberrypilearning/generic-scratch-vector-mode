@@ -1,6 +1,6 @@
-title: Scratch Paint tool vector mode
+title: Scratch paint tool vector mode
 hero_image: images/banner.png
-description: Using vector mode in the Scratch Paint tool
+description: Using vector mode in the Scratch paint tool
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
 theme: red # all possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 1 # 1, 2 or 3
@@ -11,4 +11,4 @@ curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, commun
 interests: "graphics"
 technologies: "scratch"
 steps:
-  - title: Scratch Paint vector mode
+  - title: Scratch paint vector mode
